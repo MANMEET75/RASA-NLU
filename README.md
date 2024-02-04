@@ -7,7 +7,12 @@ Rasa has two main modules:
 
 ![image](https://github.com/MANMEET75/RASA-NLU/assets/97391884/ee0dd891-23ac-4a86-ab7a-76b12cb9c6c9)
 
-
+```bash
+conda create -p venv python==3.11 -y
+```
+```bash
+conda activate venv/
+```
 ```bash
 python -m pip uninstall pip
 ```
